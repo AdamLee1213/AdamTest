@@ -1,0 +1,22 @@
+{
+  "id": "563aff80-ad2d-432c-8edd-44f9634ea944",
+  "name": "Adam Test",
+  "publisher": "Adam Lee",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
